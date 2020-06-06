@@ -1,0 +1,12 @@
+li a {
+    color: green;
+}
+
+body {
+    background-image: url("images/background.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: whitesmoke    ;
+    background-attachment: fixed;
+    background-size: 15rem;
+}
